@@ -1,8 +1,8 @@
 ## Team AfriTrade
-### slack team
-- jeffdauda
-- jaboprosper
-- moussamoustapha
+### team members
+- jeff dauda
+- jabo prosper
+- moussa moustapha
 - ssmoses
   
 ## About repo
