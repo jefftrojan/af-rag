@@ -1,1 +1,1 @@
-# af-rag
+# rag model for afritrade
