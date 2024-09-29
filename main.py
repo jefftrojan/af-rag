@@ -49,6 +49,8 @@ vectorstore = initialize_vectorstore(splits)
 
 prompt_template = """You are a legal expert. You need to answer the questions related to legal requiremeents to transport goods/products across different countries in  Africa. 
 Given below is the context and question of the user. Don't answer question outside the context provided. 
+
+if the useer ask you to translate the context to Kiswahili or Kinyarwanda you should translate it to Kiswahili or Kinyarwanda.
 context = {context}
 question = {question}
 """
