@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+langchain
+langchain-community
+langchain-openai
+python-dotenv
+# openai==0.28
+faiss-cpu
+pypdf
